@@ -35,28 +35,34 @@
 		<dc:title id="fulltitle">Pastors and Masters: A Study</dc:title>
 		<meta property="file-as" refines="#fulltitle">Pastors and Masters: A Study</meta>
 		<meta property="title-type" refines="#fulltitle">extended</meta>
-		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
+		<dc:subject id="subject-1">Fiction</dc:subject>
+		<dc:subject id="subject-2">Great Britain</dc:subject>
+		<dc:subject id="subject-3">Great Britain -- Social conditions -- 19th century</dc:subject>
+		<dc:subject id="subject-4">Social conditions</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">LCSH_ID_1</meta>
+		<meta property="term" refines="#subject-1">sh85048050</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">LCSH_ID_2</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="term" refines="#subject-2">sh85056605</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh85056943</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh2001008850</meta>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">The inept master of a preparatory school, along with his students and friends, contend with the day-to-day realities of academic life while exploring what it means to grow up and to grow older.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Charles Merry is the senior schoolmaster at a small prep school for boys. He masks his shortcomings, and those of his staff and students, with bluster and bravado. The book explores themes of authenticity, loyalty, love, death, and friendship through dense passages that are often comprised exclusively of spoken dialog and minimalist supporting text—a style that came to define the author’s future works.&lt;/p&gt;
+			&lt;p&gt;Rich with intriguing characters and cleverly constructed conversations, &lt;i&gt;Pastors and Masters&lt;/i&gt; was published in 1925 and became the first breakthrough success for its author, &lt;a href="https://standardebooks.org/ebooks/ivy-compton-burnett/"&gt;Ivy Compton-Burnett&lt;/a&gt;. The book was critically acclaimed upon its release and hailed by the &lt;i&gt;New Statesman&lt;/i&gt; as “like nothing else in the world” and “a work of genius.” In 1955, Compton-Burnett went on to receive the James Tait Black Memorial Prize, the longest-running literary award in the United Kingdom. Her works were also cited as an example of “camp” in Susan Sontag’s landmark essay on the subject in 1964, and she became a Dame Commander of the Order of the British Empire in 1967 for her artistic achievements shortly before her death in 1969.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
-		<dc:source>PG_URL</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/in.ernet.dli.2015.227656</dc:source>
+		<dc:source>https://www.google.com/books/edition/Pastors_and_Masters/u9DPAAAAMAAJ</dc:source>
+		<meta property="se:production-notes">The Internet Archive was the primary source for the page scans that were used during the production and transcription process. However, supplementary page scans from Google Books were necessary in order to fully reconstruct the manuscript due to the fact that several pages were missing in the Internet Archive’s available image set. Both sets of page scans were also consulted whenever punctuation marks, typographical symbols, words, or letters were unreadable or partially obscured.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Pastors_and_Masters</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/ivy-compton-burnett_pastors-and-masters</meta>
 		<dc:creator id="author">Ivy Compton-Burnett</dc:creator>
 		<meta property="file-as" refines="#author">Compton-Burnett, Ivy</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Ivy_Compton-Burnett</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50030036</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
